@@ -32,5 +32,4 @@ repo.git.commit("-m", "Initial commit")
 # 7. פקודת ls עם פלט
 result = subprocess.run(["ls", "-la"], capture_output=True, text=True)
 print("📁 Project structure:\n", result.stdout)
-
 print("✅ Git project fully initialized.")
