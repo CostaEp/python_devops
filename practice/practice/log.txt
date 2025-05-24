@@ -1,0 +1,31 @@
+========LOG========
+log file - time: 2025-05-24 23:10:52.579212
+===================
+-----------------------
+Command title: ls -ls 
+-----------------------
+total 8
+drwxr-xr-x@  4 costaepshtein  staff  128 May 24 23:10 .
+drwxr-xr-x@ 16 costaepshtein  staff  512 May 24 23:10 ..
+-rw-r--r--@  1 costaepshtein  staff  720 May 24 23:10 01.py
+drwxr-xr-x@  3 costaepshtein  staff   96 May 24 23:10 practice
+-----------------------
+Command title: ping -c 4 
+-----------------------
+PING 127.0.0.1 (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.062 ms
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.080 ms
+64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.076 ms
+64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.136 ms
+
+--- 127.0.0.1 ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.062/0.089/0.136/0.028 ms
+-----------------------
+Command title: uname -a 
+-----------------------
+Darwin
+-----------------------
+Command title: whoami 
+-----------------------
+costaepshtein
