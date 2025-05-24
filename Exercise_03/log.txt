@@ -1,0 +1,29 @@
+Darwin Costas-MBP.lan 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:49 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T6000 arm64
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s3s1   7.3Ti    10Gi   7.0Ti     1%    426k  4.3G    0%   /
+devfs            206Ki   206Ki     0Bi   100%     715     0  100%   /dev
+/dev/disk3s6     7.3Ti    20Ki   7.0Ti     1%       0   75G    0%   /System/Volumes/VM
+/dev/disk3s4     7.3Ti   6.6Gi   7.0Ti     1%    1.3k   75G    0%   /System/Volumes/Preboot
+/dev/disk3s2     7.3Ti    78Mi   7.0Ti     1%      56   75G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   481Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.4Mi   481Mi     2%      34  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   2.8Mi   481Mi     1%      56  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s1     7.3Ti   241Gi   7.0Ti     4%    1.8M   75G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk4s2     954Gi   184Gi   770Gi    20%       1     0  100%   /Volumes/MySSD
+total 72
+drwxr-xr-x@ 15 costaepshtein  staff   480 May 24 19:37 .
+drwxr-xr-x@  4 costaepshtein  staff   128 May 24 19:37 ..
+drwxr-xr-x@ 12 costaepshtein  staff   384 May 24 18:51 .git
+-rw-r--r--@  1 costaepshtein  staff     8 May 24 18:47 .gitignore
+-rwxr-xr-x@  1 costaepshtein  staff   186 May 24 18:13 01_Pathlib.py
+-rwxr-xr-x@  1 costaepshtein  staff   122 May 24 18:08 02_subprocess.py
+-rw-r--r--@  1 costaepshtein  staff   166 May 24 18:11 03_Gitpython.py
+-rwxr-xr-x@  1 costaepshtein  staff  1074 May 24 18:44 04_summery.py
+drwxr-xr-x@  7 costaepshtein  staff   224 May 24 19:08 Exercise_01
+-rwxr-xr-x@  1 costaepshtein  staff   151 May 24 19:08 exercise_01.py
+drwxr-xr-x@  3 costaepshtein  staff    96 May 24 19:14 Exercise_02
+-rwxr-xr-x@  1 costaepshtein  staff   176 May 24 19:14 exercise_02.py
+drwxr-xr-x@  3 costaepshtein  staff    96 May 24 19:35 Exercise_03
+-rwxr-xr-x@  1 costaepshtein  staff   612 May 24 19:37 exercise_03.py
+-rw-r--r--@  1 costaepshtein  staff   335 May 24 19:09 practice.txt
